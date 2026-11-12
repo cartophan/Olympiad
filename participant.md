@@ -1,10 +1,9 @@
 # Participant
 
-<Фамилия Имя Отчество>
+Обухова Альбина Сергеевна
 
-<Группа>
+15.27Д-ИСТ02/25б
 
 ## Solutions
 
 * solution/01_robot.py
-* solution/04_necklace.py
