@@ -7,3 +7,4 @@
 ## Solutions
 
 * solution/03_near_perm.md
+* solution/04_necklace.md
